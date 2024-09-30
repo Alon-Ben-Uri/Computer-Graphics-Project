@@ -1,4 +1,4 @@
-This is a project I made while taking the course Computer Graphics. In this C++ project I programmed the following:
+This is a project I made while taking the course Computer Graphics (pictures can be found in the Description.docx file). In this C++ project I programmed the following:
 - A room in which to store objects.
 - A tree, a crystal ball and a flashlight (the objects).
 - A robot that can be moved around, as well as the robot's arm that can be rotated at the shoulder, elbow and the wrist.
